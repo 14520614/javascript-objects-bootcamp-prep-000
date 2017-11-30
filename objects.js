@@ -1,1 +1,1 @@
-var sad = new Object(sad:"playlist");
+typeof playlist.to.equal('object')
